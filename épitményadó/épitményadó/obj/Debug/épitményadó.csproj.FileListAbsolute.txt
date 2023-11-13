@@ -1,0 +1,7 @@
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\bin\Debug\épitményadó.exe.config
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\bin\Debug\épitményadó.exe
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\bin\Debug\épitményadó.pdb
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\obj\Debug\épitményadó.csproj.AssemblyReference.cache
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\obj\Debug\épitményadó.csproj.CoreCompileInputs.cache
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\obj\Debug\épitményadó.exe
+C:\Users\geltam813\source\repos\épitményadó\épitményadó\obj\Debug\épitményadó.pdb
