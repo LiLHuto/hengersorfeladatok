@@ -1,0 +1,7 @@
+C:\Users\geltam813\source\repos\kocka\kocka\bin\Debug\kocka.exe.config
+C:\Users\geltam813\source\repos\kocka\kocka\bin\Debug\kocka.exe
+C:\Users\geltam813\source\repos\kocka\kocka\bin\Debug\kocka.pdb
+C:\Users\geltam813\source\repos\kocka\kocka\obj\Debug\kocka.csproj.AssemblyReference.cache
+C:\Users\geltam813\source\repos\kocka\kocka\obj\Debug\kocka.csproj.CoreCompileInputs.cache
+C:\Users\geltam813\source\repos\kocka\kocka\obj\Debug\kocka.exe
+C:\Users\geltam813\source\repos\kocka\kocka\obj\Debug\kocka.pdb
