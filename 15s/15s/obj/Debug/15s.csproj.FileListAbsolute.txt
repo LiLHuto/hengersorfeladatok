@@ -1,0 +1,7 @@
+H:\Visual Studio2019\15s\15s\bin\Debug\15s.exe.config
+H:\Visual Studio2019\15s\15s\bin\Debug\15s.exe
+H:\Visual Studio2019\15s\15s\bin\Debug\15s.pdb
+H:\Visual Studio2019\15s\15s\obj\Debug\15s.csproj.AssemblyReference.cache
+H:\Visual Studio2019\15s\15s\obj\Debug\15s.csproj.CoreCompileInputs.cache
+H:\Visual Studio2019\15s\15s\obj\Debug\15s.exe
+H:\Visual Studio2019\15s\15s\obj\Debug\15s.pdb

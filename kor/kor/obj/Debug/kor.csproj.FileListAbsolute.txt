@@ -1,0 +1,5 @@
+H:\Visual Studio2019\kor\kor\obj\Debug\kor.csproj.AssemblyReference.cache
+H:\Visual Studio2019\kor\kor\obj\Debug\kor.Form1.resources
+H:\Visual Studio2019\kor\kor\obj\Debug\kor.Properties.Resources.resources
+H:\Visual Studio2019\kor\kor\obj\Debug\kor.csproj.GenerateResource.cache
+H:\Visual Studio2019\kor\kor\obj\Debug\kor.csproj.CoreCompileInputs.cache

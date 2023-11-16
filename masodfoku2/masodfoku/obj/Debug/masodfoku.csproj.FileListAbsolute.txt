@@ -1,0 +1,7 @@
+H:\Visual Studio2019\masodfoku\masodfoku\obj\Debug\masodfoku.csproj.AssemblyReference.cache
+H:\Visual Studio2019\masodfoku\masodfoku\obj\Debug\masodfoku.csproj.CoreCompileInputs.cache
+H:\Visual Studio2019\masodfoku\masodfoku\bin\Debug\masodfoku.exe.config
+H:\Visual Studio2019\masodfoku\masodfoku\bin\Debug\masodfoku.exe
+H:\Visual Studio2019\masodfoku\masodfoku\bin\Debug\masodfoku.pdb
+H:\Visual Studio2019\masodfoku\masodfoku\obj\Debug\masodfoku.exe
+H:\Visual Studio2019\masodfoku\masodfoku\obj\Debug\masodfoku.pdb

@@ -1,0 +1,7 @@
+H:\Visual Studio2019\tomb1\tomb1\obj\Debug\tomb1.csproj.AssemblyReference.cache
+H:\Visual Studio2019\tomb1\tomb1\obj\Debug\tomb1.csproj.CoreCompileInputs.cache
+H:\Visual Studio2019\tomb1\tomb1\bin\Debug\tomb1.exe.config
+H:\Visual Studio2019\tomb1\tomb1\bin\Debug\tomb1.exe
+H:\Visual Studio2019\tomb1\tomb1\bin\Debug\tomb1.pdb
+H:\Visual Studio2019\tomb1\tomb1\obj\Debug\tomb1.exe
+H:\Visual Studio2019\tomb1\tomb1\obj\Debug\tomb1.pdb

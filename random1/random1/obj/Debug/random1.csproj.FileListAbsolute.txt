@@ -1,0 +1,7 @@
+H:\Visual Studio2019\random1\random1\obj\Debug\random1.csproj.AssemblyReference.cache
+H:\Visual Studio2019\random1\random1\obj\Debug\random1.csproj.CoreCompileInputs.cache
+H:\Visual Studio2019\random1\random1\bin\Debug\random1.exe.config
+H:\Visual Studio2019\random1\random1\bin\Debug\random1.exe
+H:\Visual Studio2019\random1\random1\bin\Debug\random1.pdb
+H:\Visual Studio2019\random1\random1\obj\Debug\random1.exe
+H:\Visual Studio2019\random1\random1\obj\Debug\random1.pdb
